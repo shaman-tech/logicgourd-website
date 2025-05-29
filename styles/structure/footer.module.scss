@@ -30,7 +30,7 @@
 	}
 
 	.sections {
-		$gap: 2rem;
+		$gap: 1rem;
 		display: flex;
 		flex-direction: row;
 		//justify-content: space-between;
@@ -90,6 +90,8 @@
 			font-family: var(--font-accent);
 			font-weight: 600;
 			letter-spacing: -.01rem;
+			padding: 0;
+			margin: 0;
 		}
 
 		> a {

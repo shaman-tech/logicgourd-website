@@ -1,6 +1,6 @@
 {
-	"name": "Andrew Nelson",
-	"logo": "",
+	"name": "",
+	"logo": "/logos/logo-no-text.png",
 	
 	"username": {
 		"github": "atlamors",
@@ -8,8 +8,9 @@
 	},
 
 	"portfolio": { 
-		"forkthis": "Steal this theme! Its open-source 🥰",
+		"forkthis": "When you're ready we're here 🥰",
 		"repo_html": "https://www.github.com/atlamors/portfolio",
+		"email": "mailto:peter@logicgourd.com",
 		"repo_api": "https://api.github.com/repos/atlamors/portfolio"
 	}
 }

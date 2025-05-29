@@ -3,6 +3,9 @@ import { useState, useEffect } from 'react'
 import Container from '../structure/container'
 import Icon from '../utils/icon.util'
 
+
+import Image from 'next/image'
+
 import css from '../../styles/structure/footer.module.scss'
 
 import content from '../../content/footer.json'
@@ -32,7 +35,8 @@ export default function Footer() {
 		<footer className={css.container}>
 			<Container spacing={['verticalXXLrg', 'bottomLrg']}>
 				<section className={css.sections}>
-					<ul className={css.thanks}>
+					<ul></ul>
+					{/* <ul className={css.thanks}>
 						<li><h4>Acknowledgments</h4></li>
 						{
 						content.acknowledgments.map( ({ person, link, note }, index) => {
@@ -44,8 +48,11 @@ export default function Footer() {
 							)
 						})
 						}
-					</ul>
-					<ul className={css.links}>
+					</ul> */}
+	
+					<Image src="/logos/main-logo-no-bkground.png" alt="Logicgourd Logo" width={200} height={200} className={css.logo} />
+					<ul></ul>
+					{/* <ul className={css.links}>
 						<li><h4>Links</h4></li>
 						{
 						content.links.map( ({ person, link, note }, index) => {
@@ -69,18 +76,16 @@ export default function Footer() {
 							})
 							}
 						</li>
-					</ul>
+					</ul> */}
 				</section>
 				<section className={css.github}>
-					<a href={settings.portfolio.repo_html} rel="noreferrer" target="_blank">
+					<a href={settings.portfolio.email} rel="noreferrer" target="_blank">
 						<h5>{settings.portfolio.forkthis}</h5>
 						<ul>
 							<li>
-								<p><Icon icon={[ 'fad', 'code-branch' ]} /> Forks: { gitHubInfo.forks }</p>
+								<p><Icon icon={[ 'fad', 'code-branch' ]} /> Contact Us</p>
 							</li>
-							<li>
-								<p><Icon icon={[ 'fad', 'star' ]} /> Stars: { gitHubInfo.stars }</p>
-							</li>
+						
 						</ul>
 					</a>
 				</section>

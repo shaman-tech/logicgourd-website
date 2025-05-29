@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react'
 import { useCallback } from 'react'
+import Image from 'next/image'
 import {useRouter} from 'next/router';
 import Link from 'next/link'
 import ThemeMode from '../utils/theme.util'
@@ -135,7 +136,8 @@ export default function Navbar() {
 			<ul className={css.menu}>
 				<li className={css.menuHeader}>
 					<Link className={css.logo} href="/"  >
-						{settings.name}
+					<Image src={settings.logo} alt={settings.name} width={50} height={50} />
+						{/* {settings.name} */}
 					</Link>
 					<button onClick={toggleMenu} className={css.mobileToggle} data-open={menuState}>
 						<div>

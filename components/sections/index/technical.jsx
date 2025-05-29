@@ -41,7 +41,7 @@ export default function Technical() {
 							iconClass={about.icon}
 							containerClass={about.container}
 						/>
-						<BadgesBlock 
+						{/* <BadgesBlock 
 							title="Software I love to work with" 
 							copy="With over 20 years of experience creating digital assets, I have a deep and intuitive understanding of how the interfaces of the best software products in the world are designed. This is just some of the software I have used over that time."
 							list={software}
@@ -50,7 +50,7 @@ export default function Technical() {
 							icon="grid-2-plus"
 							containerClass={about.container}
 							headerIcon={about.icon} 
-						/>
+						/> */}
 						<BadgesBlock 
 							title="Technologies I love to build with" 
 							copy="I deeply enjoy solving problems through code. From the front end all the way to the back end and the APIs in-between. No project is too challenging for me."
@@ -98,13 +98,8 @@ const tech	= [
 	{ key: 'woocommerce', 	name: 'WooCommerce', 		type: 'devicon' },
 	{ key: 'html5', 		name: 'HTML5', 				type: 'devicon' },
 	{ key: 'sass', 			name: 'SASS', 				type: 'devicon' },
-	{ key: 'git', 			name: 'Git', 				type: 'devicon' },
 	{ key: 'mysql', 		name: 'MySQL', 				type: 'devicon' },
 	{ key: 'mongodb', 		name: 'MongoDB', 			type: 'devicon' },
 	{ key: 'docker', 		name: 'Docker', 			type: 'devicon' },
-	{ key: 'aws', 			name: 'AWS', 				type: 'devicon' },
-	{ key: 'linux', 		name: 'Linux', 				type: 'devicon' },
-	{ key: 'bash', 			name: 'Bash', 				type: 'devicon' },
 	{ key: 'graphql', 		name: 'GraphQL', 			type: 'devicon' },
-	{ key: 'restapi', 		name: 'REST API', 			type: 'fas' },
 ]

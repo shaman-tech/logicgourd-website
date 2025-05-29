@@ -14,6 +14,7 @@ import hero 		from '../../../styles/sections/index/hero.module.scss';
 import button 		from '../../../styles/blocks/button.module.scss';
 
 import content		from '../../../content/index/hero.json'
+import settings		from '../../../content/_settings.json';
 
 
 /**
@@ -65,13 +66,13 @@ export default function Hero() {
 				</section>
 				<section>
 					<button	className={`button ${button.primary}`}
-							onClick={ () => window.location = 'mailto:hello@andrewnelson.net' } >
+							onClick={ () => window.location = settings.portfolio.email } >
 						{content.buttons.primary.title}
 					</button>
-					<button className={`button ${button.secondary} leaveSite`}
+					{/* <button className={`button ${button.secondary} leaveSite`}
 							onClick={ ()=> window.open("https://www.linkedin.com/in/--andrewnelson/", "_blank") } >
 						{content.buttons.secondary.title}
-					</button>
+					</button> */}
 				</section>
 			</Container>
 			<HeroBg theme="bg-color-1" />
