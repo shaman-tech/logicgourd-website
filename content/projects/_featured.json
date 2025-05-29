@@ -1,0 +1,133 @@
+[
+	{
+		"project": "clubdebut.com",
+		"url": "https://clubdebut.com/",
+		"repo": "Private",
+		"descriptionTitle": "D2C & B2B ecommerce site and blog",
+		"description": "with elegant solutions for a complex codebase and customer journey.",
+		"imageOptions": [
+		],
+		"images": [
+			{ "key": "mock-stack",	"hover": "right", 	"h": "354", "w": "500", "url": "/portfolio/clubdebut-landing.jpg" }
+		],
+		"stack": [
+			{ "key": "php", 		"name": "PHP", 			"type": "devicon" },
+			{ "key": "mysql", 		"name": "mySQL", 		"type": "devicon" },
+			{ "key": "javascript", 	"name": "JavaScript", 	"type": "devicon" },
+			{ "key": "jquery", 		"name": "jQuery", 		"type": "devicon" },
+			{ "key": "woocommerce", "name": "WooCommerce", 	"type": "devicon" },
+			{ "key": "wordpress",	"name": "Wordpress", 	"type": "devicon" }
+		]
+	},
+		{
+		"project": "lk-welness.com",
+		"url": "https://lk-wellness.com/",
+		"repo": "Private",
+		"descriptionTitle": "A Direct to Customer (D2C) ecommerce and service booking site",
+		"description": "for ones in need of a holistic approach to wellness.",
+		"imageOptions": [
+		],
+		"images": [
+			{ "key": "mock-stack",	"hover": "right", 	"h": "354", "w": "500", "url": "/portfolio/lk-wellness.jpg" }
+		],
+		"stack": [
+			{ "key": "php", 		"name": "PHP", 			"type": "devicon" },
+			{ "key": "mysql", 		"name": "mySQL", 		"type": "devicon" },
+			{ "key": "woocommerce", "name": "WooCommerce", 	"type": "devicon" },
+			{ "key": "wordpress",	"name": "Wordpress", 	"type": "devicon" }
+		]
+	},
+	{
+		"project": "shipverse.us",
+		"url": "https://shipverse.us/",
+		"repo": "Public",
+		"descriptionTitle": "An order fulfillment",
+		"description": "management platform for B2B & D2C ecommerce businesses aiming to overcome their fulfillment challenges.",
+		"imageOptions": [
+			{ "key": "size", 		"value": "large" }
+		],
+		"images": [
+			{ "key": "portfolio", "hover": "left", "h": "354", "w": "500",  "url": "/portfolio/3pl.jpg" }
+		],
+		"stack": [
+			{ "key": "nextjs", 		"name": "Next.js", 		"type": "devicon" },
+			{ "key": "react", 		"name": "React", 		"type": "devicon" },
+			{ "key": "nodejs", 		"name": "Node.js", 		"type": "devicon" },
+			{ "key": "javascript", 	"name": "JavaScript", 	"type": "devicon" }
+		]
+	},
+		{
+		"project": "teahousetherapy.com",
+		"url": "https://www.teahousetherapy.com/",
+		"repo": "Private",
+		"descriptionTitle": "An online portal",
+		"description": "providing resources and therapy services to individuals and couples who feel like they are in a rut.",
+		"imageOptions": [
+			{ "key": "size", 		"value": "large" }
+		],
+		"images": [
+			{ "key": "portfolio", "hover": "left", "h": "354", "w": "500",  "url": "/portfolio/tea-house-landing.jpg" }
+		],
+		"stack": [
+{ "key": "php", 		"name": "PHP", 			"type": "devicon" },
+			{ "key": "mysql", 		"name": "mySQL", 		"type": "devicon" },
+			{ "key": "woocommerce", "name": "WooCommerce", 	"type": "devicon" },
+			{ "key": "wordpress",	"name": "Wordpress", 	"type": "devicon" }
+		]
+	},
+		{
+		"project": "oneworldrecords.de",
+		"url": "https://oneworldrecords.de/",
+		"repo": "Private",
+		"descriptionTitle": "An online catalogue",
+		"description": "of musical talents, produced by One World Records. Showcasing talents from varying genres.",
+		"imageOptions": [
+			{ "key": "size", 		"value": "large" }
+		],
+		"images": [
+			{ "key": "portfolio", "hover": "left", "h": "354", "w": "500",  "url": "/portfolio/oneworld.jpg" }
+		],
+		"stack": [
+{ "key": "php", 		"name": "PHP", 			"type": "devicon" },
+			{ "key": "mysql", 		"name": "mySQL", 		"type": "devicon" },
+			{ "key": "wordpress",	"name": "Wordpress", 	"type": "devicon" }
+		]
+	},
+	{
+		"project": "chefsfordevelopment.org",
+		"url": "https://chefsfordevelopment.org/",
+		"repo": "Private",
+		"descriptionTitle": "An online portal",
+		"description": "showcasing culinary artists, food producers & agripreneurs building linkages between the Caribbean's gastronomy and agriculture sectors",
+		"imageOptions": [
+			{ "key": "size", 		"value": "large" }
+		],
+		"images": [
+			{ "key": "portfolio", "hover": "left", "h": "354", "w": "500",  "url": "/portfolio/chefs-for-dev.jpg" }
+		],
+		"stack": [
+{ "key": "php", 		"name": "PHP", 			"type": "devicon" },
+			{ "key": "mysql", 		"name": "mySQL", 		"type": "devicon" },
+			{ "key": "wordpress",	"name": "Wordpress", 	"type": "devicon" }
+		]
+	},
+	{
+		"project": "oneworldrecords.de",
+		"url": "https://oneworldrecords.de/",
+		"repo": "Private",
+		"descriptionTitle": "An online portal",
+		"description": "showcasing culinary artists, food producers & agripreneurs building linkages between the Caribbean's gastronomy and agriculture sectors",
+		"imageOptions": [
+			{ "key": "size", 		"value": "large" }
+		],
+		"images": [
+			{ "key": "portfolio", "hover": "left", "h": "354", "w": "500",  "url": "/portfolio/oneworld.jpg" }
+		],
+		"stack": [
+			{ "key": "php", 		"name": "PHP", 			"type": "devicon" },
+			{ "key": "mysql", 		"name": "mySQL", 		"type": "devicon" },
+			{ "key": "woocommerce", "name": "WooCommerce", 	"type": "devicon" },
+			{ "key": "wordpress",	"name": "Wordpress", 	"type": "devicon" }
+		]
+	}
+]

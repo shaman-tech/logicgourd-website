@@ -1,0 +1,134 @@
+[
+	{
+		"project": "clubdebut.com",
+		"url": "https://clubdebut.com/",
+		"repo": "Private",
+		"descriptionTitle": "D2C & B2B platform",
+		"description": "powered by a Five Points Ecosystem designed to elevate musicians, athletes, creators and e-commerce entrepreneurs",
+		"imageOptions": [
+		],
+		"images": [
+			{ "key": "mock-stack",	"hover": "right", 	"h": "354", "w": "500", "url": "/portfolio/clubdebut-landing.jpg" }
+		],
+		"stack": [
+		]
+	},
+	{
+		"project": "markhughsam.com",
+		"url": "https://markhughsam.com/",
+		"repo": "Private",
+		"descriptionTitle": "A portfolio site",
+		"description": "for Mark Hughsam creator of The True Self Mind Mastery™ program equiping you with tools that create ease and flow to your life",
+		"imageOptions": [
+		],
+		"images": [
+			{ "key": "mock-stack",	"hover": "right", 	"h": "354", "w": "500", "url": "/portfolio/mark-hughsam.jpg" }
+		],
+		"stack": [
+		]
+	},
+	{
+		"project": "lk-welness.com",
+		"url": "https://lk-wellness.com/",
+		"repo": "Private",
+		"descriptionTitle": "A Direct-to-Consumer (D2C) eCommerce and booking platform",
+		"description": "crafted for those seeking a holistic path to wellness",
+		"imageOptions": [
+		],
+		"images": [
+			{ "key": "mock-stack",	"hover": "right", 	"h": "354", "w": "500", "url": "/portfolio/lk-wellness.jpg" }
+		],
+		"stack": [
+		]
+	},
+	{
+		"project": "shipverse.us",
+		"url": "https://shipverse.us/",
+		"repo": "Public",
+		"descriptionTitle": "An order fulfillment management platform",
+		"description": "built for B2B & D2C brands seeking to solve their logistics challenges",
+		"imageOptions": [
+			{ "key": "size", 		"value": "large" }
+		],
+		"images": [
+			{ "key": "portfolio", "hover": "left", "h": "354", "w": "500",  "url": "/portfolio/3pl.jpg" }
+		],
+		"stack": [
+		]
+	},
+		{
+		"project": "teahousetherapy.com",
+		"url": "https://www.teahousetherapy.com/",
+		"repo": "Private",
+		"descriptionTitle": "An online portal",
+		"description": "offering therapy and tools for individuals and couples seeking clarity, growth, and renewed connection",
+		"imageOptions": [
+			{ "key": "size", 		"value": "large" }
+		],
+		"images": [
+			{ "key": "portfolio", "hover": "left", "h": "354", "w": "500",  "url": "/portfolio/tea-house-landing.jpg" }
+		],
+		"stack": [
+		]
+	},
+		{
+		"project": "sainternie.com",
+		"url": "https://sainternie.com/",
+		"repo": "Private",
+		"descriptionTitle": "An e-commerce platform",
+		"description": "offering a variety of luxury 'PUP'-holstery from bedding, covers and more to guarantee your pet's comfort and style.",
+		"imageOptions": [
+			{ "key": "size", 		"value": "large" }
+		],
+		"images": [
+			{ "key": "portfolio", "hover": "left", "h": "354", "w": "500",  "url": "/portfolio/saint-ernie.jpg" }
+		],
+		"stack": [
+		]
+	},
+	{
+		"project": "oneworldrecords.de",
+		"url": "https://oneworldrecords.de/",
+		"repo": "Private",
+		"descriptionTitle": "An online platform",
+		"description": "for One World Records, showcasing diverse musical talents and genre-spanning creative expression",
+		"imageOptions": [
+			{ "key": "size", 		"value": "large" }
+		],
+		"images": [
+			{ "key": "portfolio", "hover": "left", "h": "354", "w": "500",  "url": "/portfolio/oneworld.jpg" }
+		],
+		"stack": [
+		]
+	},
+	{
+		"project": "chefsfordevelopment.org",
+		"url": "https://chefsfordevelopment.org/",
+		"repo": "Private",
+		"descriptionTitle": "An online portal",
+		"description": "showcasing culinary artists, food producers & agripreneurs building linkages between the Caribbean's gastronomy and agriculture sectors",
+		"imageOptions": [
+			{ "key": "size", 		"value": "large" }
+		],
+		"images": [
+			{ "key": "portfolio", "hover": "left", "h": "354", "w": "500",  "url": "/portfolio/chefs-for-dev.jpg" }
+		],
+		"stack": [
+		]
+	},
+	{
+		"project": "manifestojamaica.com",
+		"url": "https://www.manifestojamaica.com/",
+		"repo": "Private",
+		"descriptionTitle": "An online portal",
+		"description": "showcasing the works of a Jamaican home-grown, non-profit focused on leveraging the creative arts and culture to help young people.",
+		"imageOptions": [
+			{ "key": "size", 		"value": "large" }
+		],
+		"images": [
+			{ "key": "portfolio", "hover": "left", "h": "354", "w": "500",  "url": "/portfolio/manifesto.jpg" }
+		],
+		"stack": [
+		]
+	}
+]
